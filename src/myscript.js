@@ -11,3 +11,4 @@ var b;
 
 // Only change code below this line
 b=a; //Assigning the Value of One Variable to Another
+var a=9;//Initializing Variables with the Assignment Operator
