@@ -326,3 +326,12 @@ function nextInLine(arr, item) {
   console.log(nextInLine(testArr, 6));
   console.log("After: " + JSON.stringify(testArr));//stand in line
 
+  function welcomeToBooleans() {
+    // Only change code below this line
+  
+    return true; // Change this line
+  
+    // Only change code above this line
+  }// Understanding Boolean Values
+
+  
