@@ -170,3 +170,6 @@ const myAdverb = "quickly";
 // Only change code below this line
 const wordBlanks = "The"+" "+ myAdjective + " " + myNoun+ " "+ myVerb +" " + myAdverb +"."; // Change this line
 // Word Blanks
+
+// Only change code below this line
+const myArray = ["peanut butter",10];//Store Multiple Values in one Variable using JavaScript Arrays
