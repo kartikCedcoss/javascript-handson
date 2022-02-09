@@ -301,4 +301,13 @@ function addFive(){
 addThree();
 addFive();//Understanding Undefined Value returned from a Function
 
+// Setup
+let processed = 0;
+
+function processArg(num) {
+  return (num + 3) / 5;
+}
+
+// Only change code below this line
+processed =processArg(7);// Assignment with a Returned Value
 
