@@ -176,3 +176,6 @@ const myArray = ["peanut butter",10];//Store Multiple Values in one Variable usi
 
 // Only change code below this line
 const myArray = [["bulls",23],["white Sox" ,45]];//Nest one Array within Another Array
+
+const myArray = [50, 60, 70];
+const myData = myArray[0];//    Access Array Data with Indexes
