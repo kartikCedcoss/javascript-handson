@@ -144,3 +144,9 @@ let myStr = "Jello World";
 
 // Only change code below this line
 myStr = "Hello World"; // Understand String Immutability
+// Setup
+const lastName = "Lovelace";
+
+// Only change code below this line
+const thirdLetterOfLastName = lastName[2]; //Use Bracket Notation to Find the Nth Character in a String
+
