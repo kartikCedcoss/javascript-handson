@@ -231,3 +231,11 @@ function reusableFunction() {
   functionWithArgs(1,2);
   functionWithArgs(7,9); //Passing Values to Functions with Arguments  
 
+  function timesFive(a) {
+  
+    return (5*a);
+  }
+  timesFive(5);
+  timesFive(2);
+  timesFive(0);//Return a Value from a Function with Return
+
