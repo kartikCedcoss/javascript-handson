@@ -120,3 +120,8 @@ myStr += "This is the second sentence.";//Concatenating Strings with the Plus Eq
 const myName = "Kartik saini";
 const myStr = "My name is "+myName+"and I am well!";//Constructing Strings with Variables
 
+// Change code below this line
+const someAdjective = "free code camp";
+let myStr = "Learning to code is";
+myStr += someAdjective;//Appending Variables to Strings
+
