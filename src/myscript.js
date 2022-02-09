@@ -60,4 +60,9 @@ let myVar = 11;
 // Only change code below this line
 myVar--;//Decrement a Number with JavaScript
 
+const ourDecimal = 5.7;
+
+// Only change code below this line
+const myDecimal = 5.7;//Create Decimal Numbers with JavaScript
+
 
