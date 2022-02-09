@@ -162,4 +162,11 @@ const lastName = "Lovelace";
 // Only change code below this line
 const secondToLastLetterOfLastName = lastName[lastName.length-2]; // Use Bracket Notation to Find the Nth-to-Last Character in a String
 
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
 
+// Only change code below this line
+const wordBlanks = "The"+" "+ myAdjective + " " + myNoun+ " "+ myVerb +" " + myAdverb +"."; // Change this line
+// Word Blanks
