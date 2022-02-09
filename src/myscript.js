@@ -179,3 +179,9 @@ const myArray = [["bulls",23],["white Sox" ,45]];//Nest one Array within Another
 
 const myArray = [50, 60, 70];
 const myData = myArray[0];//    Access Array Data with Indexes
+
+// Setup
+const myArray = [18, 64, 99];
+
+// Only change code below this line
+myArray[0] =45;//Modify Array Data With Indexes
