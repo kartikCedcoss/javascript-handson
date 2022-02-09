@@ -344,4 +344,15 @@ function nextInLine(arr, item) {
   
   }//Use Conditional Logic with If Statements
 
+  // Setup
+function testEqual(val) {
+    if (val==12) { // Change this line
+      return "Equal";
+    }
+    return "Not Equal";
+  }
+  
+  testEqual(10);//Comparison with the Equality Operator
+  
+
 
