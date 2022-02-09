@@ -138,3 +138,9 @@ const lastName = "Lovelace";
 
 // Only change code below this line
 firstLetterOfLastName = lastName[0]; // Use Bracket Notation to Find the First Character in a String
+
+// Setup
+let myStr = "Jello World";
+
+// Only change code below this line
+myStr = "Hello World"; // Understand String Immutability
