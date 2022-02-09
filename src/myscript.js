@@ -219,3 +219,8 @@ myArray.shift();
 // Only change code below this line
 myArray.unshift(["Paul",35]);//Manipulate Arrays With unshift()
 const myList = [["choco",2],["bar",3],["me",4],["abhi",24],["kartik",22]];//Shopping List
+function reusableFunction() {
+    console.log("Hi World");
+  }
+   reusableFunction();//    Write Reusable JavaScript with Functions
+   
