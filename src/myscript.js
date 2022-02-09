@@ -125,3 +125,9 @@ const someAdjective = "free code camp";
 let myStr = "Learning to code is";
 myStr += someAdjective;//Appending Variables to Strings
 
+// Setup
+let lastNameLength = 0;
+const lastName = "Lovelace";
+
+// Only change code below this line
+lastNameLength = lastName.length;//Find the Length of a String
