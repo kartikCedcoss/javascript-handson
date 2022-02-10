@@ -985,3 +985,12 @@ function sum(arr, n) {
   
   // Only change code above this line
 }//Replace Loops using Recursion
+
+function lookUpProfile(name, prop){
+  for (var i = 0; i < contacts.length; i++) {
+    if(contacts[i].firstName === name) {
+      return contacts[i][prop] || "No such property";
+    }
+  }
+  return "No such contact";
+}//Profile Lookup
