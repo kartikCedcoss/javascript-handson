@@ -848,3 +848,24 @@ function checkObj(obj, checkProp) {
     return "Not Found";
   }
 }//Testing Objects for Properties
+
+onst myMusic = [
+  {
+    "artist": "Billy Joel",
+    "title": "Piano Man",
+    "release_year": 1973,
+    "formats": [
+      "CD",
+      "8T",
+      "LP"
+    ],
+    "gold": true
+  },
+  {
+  "artist" : "Killi paul",
+  "title" : "rosewood",
+  "release_year": 2004,
+  "formats" :["youtube","cd"],
+  "gold" :true
+  }
+];//Manipulating Complex Objects
