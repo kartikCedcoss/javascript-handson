@@ -1024,3 +1024,10 @@ function convertToInteger(str) {
  }
  
  convertToInteger("56");//Use the parseInt Function
+
+ function convertToInteger(str) {
+  const a = parseInt(str,2);
+  return a;
+ }
+ 
+ convertToInteger("10011");//Use the parseInt Function with a Radix
