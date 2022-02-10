@@ -748,3 +748,24 @@ function abTest(a, b) {
   
   
   cc(2); cc('K'); cc(10); cc('K'); cc('A');//counting cards
+
+  const myDog = {
+    // Only change code below this line
+  "name": "tiger",
+  "legs": 4,
+  "tails": 1,
+  "friends": ["jacker","brad","don"]
+  
+    // Only change code above this line
+  }; //Build JavaScript Objects
+
+  // Setup
+const testObj = {
+    "hat": "ballcap",
+    "shirt": "jersey",
+    "shoes": "cleats"
+  };
+  
+  // Only change code below this line
+  const hatValue = testObj.hat;      // Change this line
+  const shirtValue = testObj.shirt;    // Accessing Object Properties with Dot Notation
