@@ -849,7 +849,7 @@ function checkObj(obj, checkProp) {
   }
 }//Testing Objects for Properties
 
-onst myMusic = [
+const myMusic = [
   {
     "artist": "Billy Joel",
     "title": "Piano Man",
@@ -1043,3 +1043,16 @@ function convertToInteger(str) {
     }
     
     checkSign(10);//Use Multiple Conditional (Ternary) Operators
+
+    // Only change code below this line
+function countdown(n){
+  if (n < 1) {
+  return [];
+} else {
+  const arr = countdown(n - 1);
+  arr.unshift(n);
+  return arr;
+}
+
+}
+// Use Recursion to Create a Countdown
