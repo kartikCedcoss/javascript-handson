@@ -780,3 +780,14 @@ const testObj = {
 // Only change code below this line
 const entreeValue = testObj["an entree"];   // Change this line
 const drinkValue = testObj["the drink"];  //Accessing Object Properties with Bracket Notation
+
+// Setup
+const testObj = {
+  12: "Namath",
+  16: "Montana",
+  19: "Unitas"
+};
+
+// Only change code below this line
+var playerNumber = 16;  // Change this line
+var player = testObj[playerNumber];   //Accessing Object Properties with Variables
