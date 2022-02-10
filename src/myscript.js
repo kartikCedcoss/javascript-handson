@@ -922,3 +922,11 @@ const myArray = [];
 for(let i=1; i<=5; i++){
   myArray.push(i)
 }// Iterate with JavaScript For Loops
+
+// Setup
+const myArray = [];
+
+// Only change code below this line
+for(let i=1; i<=9; i+=2){
+  myArray.push(i)
+}//Iterate Odd Numbers With a For Loop
