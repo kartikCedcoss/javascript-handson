@@ -840,3 +840,11 @@ function phoneticLookup(val) {
   // Only change code above this line
   return result;
 }//Using Objects for Lookups  
+
+function checkObj(obj, checkProp) {
+  if (obj.hasOwnProperty(checkProp)) {
+    return obj[checkProp];
+  } else {
+    return "Not Found";
+  }
+}//Testing Objects for Properties
