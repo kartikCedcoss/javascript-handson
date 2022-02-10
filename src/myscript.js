@@ -769,3 +769,14 @@ const testObj = {
   // Only change code below this line
   const hatValue = testObj.hat;      // Change this line
   const shirtValue = testObj.shirt;    // Accessing Object Properties with Dot Notation
+
+   // Setup
+const testObj = {
+  "an entree": "hamburger",
+  "my side": "veggies",
+  "the drink": "water"
+};
+
+// Only change code below this line
+const entreeValue = testObj["an entree"];   // Change this line
+const drinkValue = testObj["the drink"];  //Accessing Object Properties with Bracket Notation
